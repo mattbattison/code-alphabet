@@ -164,8 +164,7 @@ int main() {
     char board[] = "123456789";
     bool playerFlag = true;
 
-    int turn = 1;
-    while(turn <= 9) {
+    for(int turn = 1; turn <= 9; turn++) {
         clearScreen();
         printHeader();
 
@@ -177,7 +176,6 @@ int main() {
         checkForWinner(board);
 
         playerFlag = !playerFlag;
-        turn++;
     }
 
     clearScreen();
