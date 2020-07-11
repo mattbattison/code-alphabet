@@ -9,3 +9,7 @@ Hello world program in x86_64 assembler for MacOS.
 ## B: Bash
 
 FizzBuzz for numbers 1 to 100.
+
+## C: C
+
+Two-player terminal-based tic-tac-toe (noughts and crosses) game.
