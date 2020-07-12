@@ -13,3 +13,7 @@ FizzBuzz for numbers 1 to 100.
 ## C: C
 
 Two-player terminal-based tic-tac-toe (noughts and crosses) game.
+
+## D: D
+
+TODO. No D compiler required; compiles and runs in a docker container.
