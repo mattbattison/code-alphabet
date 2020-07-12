@@ -16,4 +16,6 @@ Two-player terminal-based tic-tac-toe (noughts and crosses) game.
 
 ## D: D
 
-TODO. No D compiler required; compiles and runs in a docker container.
+Running pace calculator.
+
+_Note: no D compiler required; compiles and runs in a docker container._
